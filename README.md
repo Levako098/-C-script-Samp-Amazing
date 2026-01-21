@@ -1,4 +1,4 @@
-# AutoClicker with Crosshair
+
 
 ## Description
 Python automation script for gaming with crosshair overlay and auto-shooting.
